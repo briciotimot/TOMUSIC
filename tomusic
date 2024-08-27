@@ -1,0 +1,21 @@
+To Music 🎶
+📒 Descrição
+“To Music” é uma rádio online criada utilizando IAs Generativas para oferecer uma experiência musical única e personalizada. A rádio combina diferentes estilos musicais e cria playlists adaptadas aos gostos dos ouvintes.
+
+🤖 Tecnologias Utilizadas
+GPT-4: Para gerar descrições e recomendações musicais.
+DALL-E: Para criar imagens de capa de álbuns e playlists.
+TTS (Text-to-Speech): Para gerar locuções e anúncios.
+DeepBeat: Para gerar letras de músicas.
+🧐 Processo de Criação
+Pesquisa e Planejamento: Identificação dos estilos musicais mais populares e definição do público-alvo.
+Desenvolvimento de Conteúdo: Utilização do GPT-4 para criar descrições e recomendações musicais personalizadas.
+Criação de Imagens: Uso do DALL-E para gerar capas de álbuns e imagens promocionais.
+Geração de Áudio: Implementação de TTS para criar locuções e anúncios.
+Integração e Testes: Combinação de todos os elementos em uma plataforma de rádio online e realização de testes para garantir a qualidade.
+🚀 Resultados
+Playlists Personalizadas: Criação de playlists adaptadas aos gostos dos ouvintes.
+Imagens Atraentes: Capas de álbuns e imagens promocionais geradas por IA.
+Locuções Naturais: Anúncios e locuções gerados por TTS, proporcionando uma experiência de rádio mais realista.
+💭 Reflexão
+Criar uma rádio com IAs Generativas foi um desafio interessante. A capacidade de gerar conteúdo realista e personalizado mostra o potencial dessas tecnologias para revolucionar a indústria musical.
